@@ -35,7 +35,7 @@ const getInventarios = async (req, res = response) => {
 }
 
 /**
- * Consultar todos inventarios
+ * Consultar todos inventarios de todos 
  */
  const getInventarioByID = async (req = request, res = response) => {
     try{
